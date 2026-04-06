@@ -4,7 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mia-Selfhosted-Blazor-Portfolio", "Mia-Selfhosted-Blazor-Portfolio", "{FCC6C9DB-7891-1457-5C5D-3ED915DF7D29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiaPortfolioBlazor", "\home\mia\repos\MiaPortfolioBlazor\MiaPortfolioBlazor\MiaPortfolioBlazor.csproj", "{9FDAD287-4EA6-25F2-6D90-DDD7E73190DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiaPortfolioBlazor", "\home\mia\repos\Mia-Selfhosted-Blazor-Portfolio\MiaPortfolioBlazor\MiaPortfolioBlazor.csproj", "{9FDAD287-4EA6-25F2-6D90-DDD7E73190DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
